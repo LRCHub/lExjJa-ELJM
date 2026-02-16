@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジェーンは凍っていた",
+  "base_artist": "うずら",
+  "createdAt": "2026-02-16T15:59:59.735933Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェーンは凍っていた",
+      "artist": "うずら",
+      "has_synced": false,
+      "path": "select/pl_01_ジェーンは凍っていた_うずら.txt"
+    }
+  ]
+}
